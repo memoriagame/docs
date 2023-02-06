@@ -3,7 +3,7 @@
 </h2>
 
 <h2 align="center">
- <img src="assets/mockup/mockup1.png" id="188918" /> 
+ <img src="https://user-images.githubusercontent.com/111701513/211658038-537fa601-08e6-4ced-a487-2d57b06a6281.png" id="188918" /> 
 </h2>
 
 <h3 align="left">
