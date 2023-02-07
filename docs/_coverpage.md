@@ -1,7 +1,7 @@
 <img src="./src/_assets/logo.png" alt="logo" id="3813720" class="flaticon" width="100px"/>
 
 # memoriagame <small>1.0.0</small>
-
+ 
 >  Memoria Game é um jogo de memória online.
 
 <!--- ###  JOGO DA MEMÓRIA ![188918](https://user-images.githubusercontent.com/104602308/188720995-cba98da3-261c-4bb9-824c-6ea5c91c923f.png) --->
