@@ -1,0 +1,6 @@
+[submodule "docs"]
+ path = /assets
+ url = git://github.com/memoriagame/assets.git
+[submodule "mobile"]
+ path = readme/
+ url = git://github.com/memoriagame/readme.git
