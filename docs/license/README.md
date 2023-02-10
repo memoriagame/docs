@@ -6,6 +6,7 @@
 - o tema é licenciado em docsify com a licença MIT
 - [Stopwatch class](https://codepen.io/Marcos_Feijo/pen/ejaRRg)
 - A documentação técnica é escrita com docsify com a licença MIT
+- As imagens são públicas do google imagens, mas caso você tenha o direito de alguma imagem, vamos retirar a imagem do jogo caso você queira
 - https://codepen.io/havardob/pen/MWKWZxZ
 - as imagens que aparecem de forma aleatória é baseado no código: [yvWddw](https://codepen.io/fredthewebguy/pen/yvWddw) da autoria/desenvolvedor: [codepen.io/fredthewebguy](https://codepen.io/fredthewebguy)
 - https://github.com/lopesneto/JogoDaMemoria.git
