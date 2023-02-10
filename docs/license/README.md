@@ -8,6 +8,8 @@
 - A documentação técnica é escrita com docsify com a licença MIT
 - https://codepen.io/havardob/pen/MWKWZxZ
 - as imagens que aparecem de forma aleatória é baseado no código: [yvWddw](https://codepen.io/fredthewebguy/pen/yvWddw) da autoria/desenvolvedor: [codepen.io/fredthewebguy](https://codepen.io/fredthewebguy)
+- https://github.com/lopesneto/JogoDaMemoria.git
+- https://github.com/vidadofael/jogodamemoria1.git
 - O tema da documentação técnica é baseado em [vue-orgchart](https://github.com/spiritree/vue-orgchart) com a licença MIT
 - Código fonte aberto por MIT: adicione mais recursos ou remova recursos conforme o necessário
 - [Cartas](https://www.pokemon.com/br/pokedex/)
