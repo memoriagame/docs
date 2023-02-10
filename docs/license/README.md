@@ -1,8 +1,10 @@
-## Licença && Fontes usadas:👇👇
+## Licença
 - A [logo](https://www.flaticon.com/br/icone-gratis/jogos-de-cartas_3813720) é licenciada com a licença: "License Flaticon Free" para uso pessoal e comercial com atribuição.
 - [conversor de imagem png para icon utilizado](https://convertico.com/#google_vignette)
 - sistema de ranking é baseado no código [rating-stars](https://codepen.io/josetxu/details/jOYYmVZ) da autoria/desenvolvedor: [codepen.io/josetxu](https://codepen.io/josetxu)
+- a api unsplash é baseada em [k2loo/pen/zbMLbN](https://codepen.io/k2loo/pen/zbMLbN), [traceofwind/pen/vRvdmz](https://codepen.io/traceofwind/pen/vRvdmz)
 - o tema é licenciado em docsify com a licença MIT
+- [Stopwatch class](https://codepen.io/Marcos_Feijo/pen/ejaRRg)
 - A documentação técnica é escrita com docsify com a licença MIT
 - as imagens que aparecem de forma aleatória é baseado no código: [yvWddw](https://codepen.io/fredthewebguy/pen/yvWddw) da autoria/desenvolvedor: [codepen.io/fredthewebguy](https://codepen.io/fredthewebguy)
 - O tema da documentação técnica é baseado em [vue-orgchart](https://github.com/spiritree/vue-orgchart) com a licença MIT
