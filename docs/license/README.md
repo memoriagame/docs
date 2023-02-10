@@ -6,6 +6,7 @@
 - o tema é licenciado em docsify com a licença MIT
 - [Stopwatch class](https://codepen.io/Marcos_Feijo/pen/ejaRRg)
 - A documentação técnica é escrita com docsify com a licença MIT
+- https://codepen.io/havardob/pen/MWKWZxZ
 - as imagens que aparecem de forma aleatória é baseado no código: [yvWddw](https://codepen.io/fredthewebguy/pen/yvWddw) da autoria/desenvolvedor: [codepen.io/fredthewebguy](https://codepen.io/fredthewebguy)
 - O tema da documentação técnica é baseado em [vue-orgchart](https://github.com/spiritree/vue-orgchart) com a licença MIT
 - Código fonte aberto por MIT: adicione mais recursos ou remova recursos conforme o necessário
