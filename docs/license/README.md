@@ -10,6 +10,9 @@
 - https://codepen.io/havardob/pen/MWKWZxZ
 - as imagens que aparecem de forma aleatória é baseado no código: [yvWddw](https://codepen.io/fredthewebguy/pen/yvWddw) da autoria/desenvolvedor: [codepen.io/fredthewebguy](https://codepen.io/fredthewebguy)
 - https://github.com/lopesneto/JogoDaMemoria.git
+- cartas frontais e traseiras de filmes aleatórios ou não é feita com a api themoviedb API
+- cartas frontais e traseiras aleatórias ou não é feita com a api unplash
+- cartas frontais e traseiras com temas pokemon, naruto, one-piece, ricky-and-morty, pica-pau, dragon-ball-z etc ou não é feita com a api assets
 - https://github.com/vidadofael/jogodamemoria1.git
 - O tema da documentação técnica é baseado em [vue-orgchart](https://github.com/spiritree/vue-orgchart) com a licença MIT
 - Código fonte aberto por MIT: adicione mais recursos ou remova recursos conforme o necessário
